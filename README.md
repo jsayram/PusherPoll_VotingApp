@@ -7,15 +7,14 @@ https://canvasjs.com/ <br>
 https://mlab.com/ <br>
 https://nodejs.org/en/ <br>
 
-Quick Start
+Quick Start<br>
 Edit the config/keys.js file and add your MongoDB URI and Pusher key info
+
 
 # Install dependencies
 npm install
-
 # Run dev server localhost:3000
 npm run dev
-
 # Start
 npm start
 
